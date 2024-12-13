@@ -1,1 +1,1 @@
-# Trabajo Práctico final de Programación - Primer cuatrimestre
+# Trabajo Práctico final - Primer cuatrimestre

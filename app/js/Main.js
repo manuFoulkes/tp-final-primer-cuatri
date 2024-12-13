@@ -6,7 +6,7 @@ export const Main = () => {
     main.classList.add("main-content");
 
     products.forEach(product => {
-        console.log(product);
+        //console.log(product);
         main.appendChild(ProductCard(product));
     });
 

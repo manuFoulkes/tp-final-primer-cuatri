@@ -3,9 +3,8 @@ export const Menu = () => {
 
     menu.classList.add("menu");
     menu.innerHTML = `
-        <a href="#/">Home</>
-        <a href="#products/">Productos</>
-        <a href="#cart/">Carrito</>
+        <a href="#/products/">Productos</a>
+        <a href="#/cart/">Carrito</a>
     `;
 
     return menu;
